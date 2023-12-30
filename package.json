@@ -1,5 +1,5 @@
 {
-  "name": "randomcolor",
+  "name": "random-color-hex-generate",
   "version": "1.0.0",
   "description": "A simple npm package to generate random colors.",
   "main": "index.js",

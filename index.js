@@ -4,4 +4,6 @@ function generateRandomColor() {
   return `#${"000000".slice(0, 6 - randomColor.length)}${randomColor}`;
 }
 
-module.exports = generateRandomColor;
+const randomColor = generateRandomColor();
+
+module.exports = randomColor;
